@@ -20,13 +20,13 @@ Here are some of the projects I have worked on:
 
 
 ### [Kiosk app for food spots]()
-**Description:** [Brief description of the project] <br>
+**Description:** [To import] <br>
 **Technologies Used:** <br>
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-### [Cookbook data structure]()
-**Description:**<br>
+### [Cookbook data structure](https://github.com/s-Konrad/recipe)
+**Description:** Simple cookbook and recipe implementation for future incorporation into graphical application<br>
 **Technologies Used:**<br>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
