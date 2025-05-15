@@ -13,20 +13,20 @@ I have experience working with a variety of languages and technologies. I am loo
 Here are some of the projects I have worked on:
 
 ### [Sokoban game](https://github.com/s-Konrad/sokoban-game)
-**Description:** The program is centered around using OOP paradigms to reconstruct the popular puzzle game, Sokoban.
+**Description:** The program is centered around using OOP paradigms to reconstruct the popular puzzle game, Sokoban. <br>
 **Technologies Used:** <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyQt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 
 ### [Kiosk app for food spots]()
-**Description:** [Brief description of the project]
+**Description:** [Brief description of the project] <br>
 **Technologies Used:** <br>
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 ### [Cookbook data structure]()
-**Description:**
+**Description:**<br>
 **Technologies Used:**<br>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
