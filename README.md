@@ -25,11 +25,11 @@ Here are some of the projects I have worked on:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-### [Cookbook data structure](https://github.com/s-Konrad/recipe)
-**Description:** Simple cookbook and recipe implementation for future incorporation into graphical application<br>
+### [Metro simulation contol panel](https://github.com/s-Konrad/metro)
+**Description:** A simple metro simulator created as an insight into th real life metrolines administration<br>
 **Technologies Used:**<br>
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ## Tech stack
 Here are some of the skills and technologies I have experience with: <br>
